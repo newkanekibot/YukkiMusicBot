@@ -57,6 +57,8 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 </details>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/newkanekibot/YukkiMusicBot) 
+
 <details>
 <summary><b>🔗 Deploy to VPS</b></summary>
 <br>
